@@ -1,5 +1,6 @@
 # Lab 7 - Starter Code
 
-Coauthor: RyProgrammer
+Ryan Wright
+Adithya Telang
 
 https://adittel.github.io/Lab7_Starter/
